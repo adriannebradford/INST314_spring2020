@@ -1,0 +1,9 @@
+
+<table style="text-align:center"><caption><strong>Table #: Summary Statistics of Numerical Variables</strong></caption>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">Statistic</td><td>N</td><td>Mean</td><td>St. Dev.</td><td>Min</td><td>Pctl(25)</td><td>Pctl(75)</td><td>Max</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr><tr><td style="text-align:left">income</td><td>998</td><td>81,379.260</td><td>49,400.990</td><td>5,000</td><td>74,500</td><td>74,500</td><td>500,000</td></tr>
+<tr><td style="text-align:left">age</td><td>998</td><td>49.389</td><td>16.639</td><td>18</td><td>37</td><td>61</td><td>99</td></tr>
+<tr><td style="text-align:left">transformers</td><td>998</td><td>1.254</td><td>1.545</td><td>0</td><td>0</td><td>2</td><td>5</td></tr>
+<tr><td style="text-align:left">books</td><td>998</td><td>21.922</td><td>75.104</td><td>0</td><td>2</td><td>16</td><td>1,000</td></tr>
+<tr><td style="text-align:left">fedbudget</td><td>998</td><td>15.820</td><td>18.087</td><td>0</td><td>5</td><td>18</td><td>100</td></tr>
+<tr><td colspan="8" style="border-bottom: 1px solid black"></td></tr></table>
