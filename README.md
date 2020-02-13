@@ -6,3 +6,6 @@ Lab Notebooks for INST 314
 
 **Lab 2: Descriptive Statistics and Visualizations**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/master?filepath=Lab2_Descriptive_Stats_and_Viz.ipynb)
+
+**Lab 2.5: Publication Quality Tables and Graphs**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/master?filepath=Lab2_PQ_output_desc_viz.ipynb)
