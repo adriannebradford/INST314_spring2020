@@ -19,4 +19,8 @@ install.packages("ggcorrplot") ## make pretty corrplot
 install.packages("GGally") ## scatterplot matrix function
 install.packages("gtrendsR")
 install.packages("olsrr") ## ols diagnostics
-
+install.packages("flextable")
+install.packages("stargazer")
+install.packages("sjPlot")
+install.packages("webshot")
+webshot::install_phantomjs()
