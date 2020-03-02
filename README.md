@@ -13,3 +13,5 @@ Lab Notebooks for INST 314
 **Lab 3: Chi-Square Tests**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/master?filepath=Lab_3_Chi_Square.ipynb)
 
+**Lecture 6: One-Sample z- and t-tests**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford / INST314_spring2020/master?filepath=Lecture6_one_sample_t_and_z.ipynb)
