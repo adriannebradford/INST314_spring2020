@@ -14,4 +14,4 @@ Lab Notebooks for INST 314
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/1e9ae76?filepath=Lab_3_Chi_Square.ipynb)
 
 **Lecture 6: One-Sample z- and t-tests**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford / INST314_spring2020/master?filepath=Lecture6_one_sample_t_and_z.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/2b654ba?filepath=Lecture6_one_sample_t_and_z.ipynb)
