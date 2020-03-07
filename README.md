@@ -18,3 +18,6 @@ Lab Notebooks for INST 314
 
 **Lab 4: One-Sample t-tests**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/879657d?filepath=Lab4_one_sample_t.ipynb)
+
+**Lecture 7: Two-Sample t-tests**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/c5a56bf?filepath=Lecture7_twosamplet.ipynb)
