@@ -1,4 +1,4 @@
-# INST314_spring2020
+# INST314 - Statistics for Information Science
 Lab Notebooks for INST 314
 
 **Lab 1: R Basics**
