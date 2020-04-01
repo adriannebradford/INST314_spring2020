@@ -23,4 +23,4 @@ Lab Notebooks for INST 314
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/c0ee69a?filepath=Lecture7_twosamplet.ipynb)
 
 **Lab 5: Two-Sample t-tests**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/c0ee69a?filepath=Lab5_two_sample_t.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/013d248?filepath=Lab5_two_sample_t.ipynb)
