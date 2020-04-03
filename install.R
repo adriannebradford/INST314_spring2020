@@ -25,4 +25,5 @@ install.packages("webshot")
 #webshot::install_phantomjs()
 #install.packages("magick")
 install.packages("scales")
+install.packages("Hmisc")
 
