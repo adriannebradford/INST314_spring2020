@@ -26,4 +26,7 @@ Lab Notebooks for INST 314
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/013d248?filepath=Lab5_two_sample_t.ipynb)
 
 **Lecture 8: One-Way ANOVA**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/e127bbd?filepath=Lecture8_onewayANOVA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/9cd8d57?filepath=Lecture8_onewayANOVA.ipynb)
+
+**Lab 6: One-Way ANOVA**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/9cd8d57?filepath=Lab6_onewayANOVA.ipynb)
