@@ -32,4 +32,4 @@ Lab Notebooks for INST 314
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/9cd8d57?filepath=Lab6_onewayANOVA.ipynb)
 
 **Lab 7: Two-Way ANOVA**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/fd6387b?filepath=Lab7_twowayANOVA.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/8c460bd?filepath=Lab7_twowayANOVA.ipynb)
