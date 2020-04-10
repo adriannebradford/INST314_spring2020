@@ -1,3 +1,4 @@
+install.packages("gt") # grammar of tables
 install.packages("tidyverse")
 install.packages("rmarkdown")
 install.packages("httr")
@@ -24,7 +25,7 @@ install.packages("sjPlot")
 install.packages("webshot")
 install.packages("knitr")
 install.packages("kableExtra")
-install.packages("gt") # grammar of tables
+
 #webshot::install_phantomjs()
 #install.packages("magick")
 install.packages("scales")
