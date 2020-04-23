@@ -30,4 +30,5 @@ install.packages("kableExtra")
 #install.packages("magick")
 install.packages("scales")
 install.packages("Hmisc")
+install.packages("performance")
 
