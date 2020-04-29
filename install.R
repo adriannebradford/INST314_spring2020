@@ -31,4 +31,4 @@ install.packages("kableExtra")
 install.packages("scales")
 install.packages("Hmisc")
 install.packages("performance")
-
+install.packages("plotmo")
