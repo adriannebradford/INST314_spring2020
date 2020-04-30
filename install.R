@@ -25,7 +25,7 @@ install.packages("sjPlot")
 install.packages("webshot")
 install.packages("knitr")
 install.packages("kableExtra")
-
+install.packages("car")
 #webshot::install_phantomjs()
 #install.packages("magick")
 install.packages("scales")
