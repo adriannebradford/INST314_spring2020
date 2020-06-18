@@ -31,5 +31,29 @@ Lab Notebooks for INST 314
 **Lab 6: One-Way ANOVA**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/9cd8d57?filepath=Lab6_onewayANOVA.ipynb)
 
+**Lecture 9: Two-Way ANOVA**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lecture9_twowayANOVA.ipynb)
+
 **Lab 7: Two-Way ANOVA**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/8c460bd?filepath=Lab7_twowayANOVA.ipynb)
+
+**Lecture 10: Correlations**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lecture10_Correlations.ipynb)
+
+**Lab 8: Correlations**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lab8_Correlations.ipynb)
+
+**Lecture 11: Simple Linear Regression (OLS)**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lecture11_SimpleLinearRegression.ipynb)
+
+**Lab 9: Simple Linear Regression**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lab9_simpleOLS.ipynb)
+
+**Lecture 12: Multiple Linear Regression - Part 1**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lecture12_MLR_PartONE.ipynb)
+
+**Lecture 12: Multiple Linear Regression - Part 2**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lecture12_MLR_PartTWO.ipynb)
+
+**Lab 10: Multiple Linear Regression**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/97df1f0?filepath=Lab10_multipleregression.ipynb)
