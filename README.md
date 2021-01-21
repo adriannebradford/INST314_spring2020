@@ -1,5 +1,5 @@
 # INST314 - Statistics for Information Science
-Lab Notebooks for INST 314
+Lab Notebooks for INST 314.  Click to launch Jupyter notebooks.
 
 **Lab 1: R Basics**
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adriannebradford/INST314_spring2020/4eecd43?filepath=Lab1_RBasics.ipynb)
